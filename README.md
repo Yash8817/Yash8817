@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working as a software engineer in medgenome
+I'm currently working as a software engineer at banglore, india.
+
 
 
 ## 🌐 Socials:
